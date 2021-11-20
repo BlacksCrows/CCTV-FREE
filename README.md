@@ -8,7 +8,7 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/BlacksCrows/CCTV-FREE
 
 * pip3 install requests
 
@@ -26,6 +26,4 @@ Hack Cameras
 
 <img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto2.png">
 
-<h3> Paypal donations: </h3>
 
-* https://www.paypal.com/paypalme/AngelSecTeam
