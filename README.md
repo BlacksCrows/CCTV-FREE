@@ -4,6 +4,10 @@ Hack Cameras
 
 <h3> Mode Of Execution: </h3>
 
+* virtualenv venv
+
+* source venv/bin/acticate
+ 
 * apt-get install python3
 
 * apt-get install git
